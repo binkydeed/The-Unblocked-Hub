@@ -1,0 +1,30 @@
+{
+  "name": "The Unblocked Hub",
+  "description": "A professional game and proxy site where you can bypass any school or work restrictions.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm i && npm i express path",
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theunblockedhub/the-unblocked-hub.git"
+  },
+  "keywords": [
+    "TheUnblockedHub",
+    "unblocker",
+    "games",
+    "proxy",
+    "ultraviolet"
+  ],
+  "author": "The Unblocked Hub",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/theunblockedhub/the-unblocked-hub/issues"
+  },
+  "homepage": "https://github.com/theunblockedhub/the-unblocked-hub#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
